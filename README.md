@@ -1,5 +1,5 @@
 -    Hi, My name is Vishal Thakur.
--    I’m currently a student of - Mech with specialization in Artificial Intelligence and Robotics - at VIT Bhopal.
+-    I’m currently a student of - Mech Eng. with specialization in Artificial Intelligence and Robotics - at VIT Bhopal.
 -    I'm Highly intrested in Automotive industry, Robotics and in Aerospace Industry.
 -    Reach me through my email - thakurvishalvt7563@gmail.com .
 
